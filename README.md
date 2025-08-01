@@ -52,7 +52,7 @@ Joblib/Pickle for model saving
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/loan-predictive-model.git
+git clone https://github.com/NirvanJha/loan-predictive-model.git
 cd loan-predictive-model
 2. Install dependencies
 bash
